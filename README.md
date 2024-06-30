@@ -1,10 +1,11 @@
-# YT Bookmarker
+# TubeTuner
 
-YT Bookmarker is a Chrome extension that enhances the experience of watching YouTube videos by allowing users to create and manage bookmarks with custom notes at specific timestamps in YouTube videos.
+TubeTuner is a robust Chrome extension crafted to elevate your YouTube journey. It empowers you to effortlessly bookmark precise timestamps within videos, whether you're diving into educational content, tutorials, or entertainment. TubeTuner ensures that significant moments are saved for quick retrieval, eliminating the need to scrub through videos. Simply jump directly to the moments that hold the most value to you.
 
-You can find the [published extension in the Chrome Web Store](https://chrome.google.com/webstore/detail/yt-bookmarker/docgcaajjlhikhllnlkfmffciiokggag/related) for installation. It's free to use and only uses local browser storage. No sign-up necessary.
 
-![YT Bookmarker - No Screenshots](./img/yt-bookmarker_3.png)
+# ScreenShots
+
+
 *No Bookmarks*
 
 ![YT Bookmarker - With Screenshots](./img/yt-bookmarker_1.png)
