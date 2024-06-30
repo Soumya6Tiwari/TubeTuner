@@ -3,11 +3,16 @@
 TubeTuner is a robust Chrome extension crafted to elevate your YouTube journey. It empowers you to effortlessly bookmark precise timestamps within videos, whether you're diving into educational content, tutorials, or entertainment. TubeTuner ensures that significant moments are saved for quick retrieval, eliminating the need to scrub through videos. Simply jump directly to the moments that hold the most value to you.
 
 
-# ScreenShots
+# Screenshots
 
 *image of TubeTuner Chrome Extension*
 ![image of TubeTuner Chrome Extension](https://github.com/Soumya6Tiwari/TubeTuner/blob/ab30b76b89da15845d3f09f519adbf318e8d3717/screenshots/image%20of%20TubeTuner%20Chrome%20Extension.png)
 
+*Non Youtube video page*
+![Non Youtube Video Page](https://github.com/Soumya6Tiwari/TubeTuner/blob/f8fe9f11df3baaecfd70a75b0cd7cfa4f59d733c/screenshots/Non%20Youtube%20Video%20page.png)
+
+*Without Bookmarks*
+![Without Bookmarks](https://github.com/Soumya6Tiwari/TubeTuner/blob/f8fe9f11df3baaecfd70a75b0cd7cfa4f59d733c/screenshots/Without%20Bookmarks.png)
 
 *No Bookmarks*
 
