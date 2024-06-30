@@ -5,6 +5,9 @@ TubeTuner is a robust Chrome extension crafted to elevate your YouTube journey. 
 
 # ScreenShots
 
+*image of TubeTuner Chrome Extension*
+![image of TubeTuner Chrome Extension](screenshots/image of TubeTuner Chrome Extension.png)
+
 
 *No Bookmarks*
 
