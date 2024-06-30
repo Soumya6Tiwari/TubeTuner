@@ -16,19 +16,19 @@
     "web_accessible_resources": [
       {
         "resources": [
-          "assets/bookmark.png",
-          "assets/play.png",
-          "assets/delete.png",
-          "assets/save.png"
+          "Assets/bookmark.png",
+          "Assets/play.png",
+          "Assets/delete.png",
+          "Assets/save.png"
         ],
         "matches": ["https://*.youtube.com/*"]
       }
     ],
     "action": {
       "default_icon": {
-        "16": "assets/youtube video bookmarker image.png",
-        "24": "assets/youtube video bookmarker image.png",
-        "32": "assets/youtube video bookmarker image.png"
+        "16": "Assets/youtube video bookmarker image.png",
+        "24": "Assets/youtube video bookmarker image.png",
+        "32": "Assets/youtube video bookmarker image.png"
       },
       "default_title": "TimeTuner",
       "default_popup": "popup.html"
